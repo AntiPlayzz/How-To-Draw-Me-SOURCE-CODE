@@ -1,0 +1,32 @@
+{
+	"storyName": "It's Back!",
+	"difficulties": "BF, HTDM",
+	"hideFreeplay": false,
+	"weekBackground": "papernew",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"HTDMMENU",
+		"ng",
+		"gf"
+	],
+	"songs": [
+		[
+			"Drawing",
+			"HTDMNEW",
+			[
+				255,
+				143,
+				31
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "How to Draw Me!",
+	"hiddenUntilUnlocked": false
+}

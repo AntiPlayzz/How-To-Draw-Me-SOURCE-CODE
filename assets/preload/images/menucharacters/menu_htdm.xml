@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_htdm.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle instance 10000" x="0" y="0" width="303" height="399" frameX="-16" frameY="-64" frameWidth="320" frameHeight="463"/>
+	<SubTexture name="idle instance 10001" x="303" y="0" width="320" height="392" frameX="0" frameY="-71" frameWidth="320" frameHeight="463"/>
+	<SubTexture name="idle instance 10002" x="623" y="0" width="270" height="431" frameX="-47" frameY="-32" frameWidth="320" frameHeight="463"/>
+	<SubTexture name="idle instance 10003" x="623" y="0" width="270" height="431" frameX="-47" frameY="-32" frameWidth="320" frameHeight="463"/>
+	<SubTexture name="idle instance 10004" x="0" y="431" width="262" height="457" frameX="-53" frameY="-6" frameWidth="320" frameHeight="463"/>
+	<SubTexture name="idle instance 10005" x="0" y="431" width="262" height="457" frameX="-53" frameY="-6" frameWidth="320" frameHeight="463"/>
+	<SubTexture name="idle instance 10006" x="262" y="431" width="261" height="462" frameX="-54" frameY="-1" frameWidth="320" frameHeight="463"/>
+	<SubTexture name="idle instance 10007" x="262" y="431" width="261" height="462" frameX="-54" frameY="-1" frameWidth="320" frameHeight="463"/>
+	<SubTexture name="idle instance 10008" x="523" y="431" width="261" height="463" frameX="-54" frameY="0" frameWidth="320" frameHeight="463"/>
+	<SubTexture name="idle instance 10009" x="523" y="431" width="261" height="463" frameX="-54" frameY="0" frameWidth="320" frameHeight="463"/>
+	<SubTexture name="idle instance 10010" x="523" y="431" width="261" height="463" frameX="-54" frameY="0" frameWidth="320" frameHeight="463"/>
+	<SubTexture name="idle instance 10011" x="523" y="431" width="261" height="463" frameX="-54" frameY="0" frameWidth="320" frameHeight="463"/>
+	<SubTexture name="idle instance 10012" x="523" y="431" width="261" height="463" frameX="-54" frameY="0" frameWidth="320" frameHeight="463"/>
+	<SubTexture name="idle instance 10013" x="523" y="431" width="261" height="463" frameX="-54" frameY="0" frameWidth="320" frameHeight="463"/>
+</TextureAtlas>

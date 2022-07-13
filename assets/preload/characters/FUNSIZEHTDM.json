@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				150
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				119,
+				160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Right instance 1"
+		},
+		{
+			"offsets": [
+				34,
+				141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down instance 1"
+		},
+		{
+			"offsets": [
+				17,
+				172
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up instance 1"
+		},
+		{
+			"offsets": [
+				-39,
+				148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Left instance 1"
+		},
+		{
+			"offsets": [
+				38,
+				242
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "yipee instance 1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				159
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Right miss instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-82,
+				147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Left Miss instance 1"
+		},
+		{
+			"offsets": [
+				17,
+				171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up Miss instance 1"
+		},
+		{
+			"offsets": [
+				33,
+				141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Down Miss instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/FunsizedHTDM",
+	"position": [
+		50,
+		380
+	],
+	"healthicon": "FunsizeHTDM",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		128,
+		0
+	],
+	"camera_position": [
+		50,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
